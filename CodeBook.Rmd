@@ -50,9 +50,9 @@ calculated.
 # Variables
 
 1. subject  
-- values - 1:30  
-- class - integer  
-- description - each number represents the person that the data was collected from  
+values - 1:30  
+class - integer  
+description - each number represents the person that the data was collected from  
 
 2. activity_type  
 - values - Walking, Walking Upstairs, Walking Downstairs, Laying, Standing, Sitting  
