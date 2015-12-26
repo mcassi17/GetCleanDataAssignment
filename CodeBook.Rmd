@@ -189,202 +189,202 @@ values - normailzed value between [-1, 1]
 class - numeric   
 description - mean frequency signal for Body Acceleration Jerk in the Z direction
 
-29. fBodyGyro-mean()-X
-values - normailzed value between [-1, 1]
-class - numeric
-description - mean frequency signal for Body Gyroscope in the X direction
+29. fBodyGyro-mean()-X  
+values - normailzed value between [-1, 1]  
+class - numeric  
+description - mean frequency signal for Body Gyroscope in the X direction  
 
-30. fBodyGyro-mean()-Y
+30. fBodyGyro-mean()-Y  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - mean frequency signal for Body Gyroscope in the Y direction  
 
-31. fBodyGyro-mean()-Z
+31. fBodyGyro-mean()-Z  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - mean frequency signal for Body Gyroscope in the Z direction  
 
-32. fBodyAccMag-mean()
+32. fBodyAccMag-mean()  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - mean frequency signal for Body Acceleration Magnitude  
 
-33. fBodyBodyAccJerkMag-mean()
+33. fBodyBodyAccJerkMag-mean()  
 values - normailzed value between [-1, 1] 
 class - numeric  
 description - mean frequency signal for Body Acceleration Jerk Magnitude  
 
-34. fBodyBodyGyroMag-mean()
+34. fBodyBodyGyroMag-mean()  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - mean frequency signal for Body Gyroscopic Magnitude   
 
-35. fBodyBodyGyroJerkMag-mean()
+35. fBodyBodyGyroJerkMag-mean()  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - mean frequency signal for Body Gyroscopic Jerk Magnitude   
 
-36. tBodyAcc-std()-X
+36. tBodyAcc-std()-X  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation time signal for Body Acceleration in the X direction  
 
-37. tBodyAcc-std()-Y
+37. tBodyAcc-std()-Y  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation time signal for Body Acceleration in the Y direction  
 
-38. tBodyAcc-std()-Z
+38. tBodyAcc-std()-Z  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation time signal for Body Acceleration in the Z direction  
 
-39. tGravityAcc-std()-X
+39. tGravityAcc-std()-X  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation time signal for Gravity Acceleration in the X direction  
 
-40. tGravityAcc-std()-Y
+40. tGravityAcc-std()-Y  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation time signal for Gravity Acceleration in the Y direction  
 
-41. tGravityAcc-std()-Z
+41. tGravityAcc-std()-Z  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation time signal for Gravity Acceleration in the Z direction  
 
-42. tBodyAccJerk-std()-X
+42. tBodyAccJerk-std()-X  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation time signal for Body Acceleration Jerk in the X direction    
 
-43. tBodyAccJerk-std()-Y
+43. tBodyAccJerk-std()-Y  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation time signal for Body Acceleration Jerk in the Y direction  
 
-44. tBodyAccJerk-std()-Z
+44. tBodyAccJerk-std()-Z  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation time signal for Body Acceleration Jerk in the Z direction  
 
-45. tBodyGyro-std()-X
+45. tBodyGyro-std()-X  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation time signal for Body Gyroscope in the X direction  
 
-46. tBodyGyro-std()-Y
+46. tBodyGyro-std()-Y  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation time signal for Body Gyroscope in the Y direction   
 
-47. tBodyGyro-std()-Z
+47. tBodyGyro-std()-Z  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation time signal for Body Gyroscope in the Z direction    
 
-48. tBodyGyroJerk-std()-X
+48. tBodyGyroJerk-std()-X  
 values - normailzed value between [-1, 1]  
 class - numeric 
 description - standard deviation time signal for Body Gyroscopic Jerk in the X direction    
 
-49. tBodyGyroJerk-std()-Y
+49. tBodyGyroJerk-std()-Y  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation time signal for Body Gyroscopic Jerk in the Y direction  
 
-50. tBodyGyroJerk-std()-Z
+50. tBodyGyroJerk-std()-Z  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation time signal for Body Gyroscopic Jerk in the Z direction  
 
-51. tBodyAccMag-std()
+51. tBodyAccMag-std()  
 values - normailzed value between [-1, 1]   
 class - numeric  
 description - standard deviation time signal for Body Acceleration Magnitude   
 
-52. tGravityAccMag-std()
+52. tGravityAccMag-std()  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation time signal for Gravity Acceleration Magnitude  
  
-53. tBodyAccJerkMag-std()
+53. tBodyAccJerkMag-std()  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation time signal for Body Acceleration Jerk Magnitude  
 
-54. tBodyGyroMag-std()
+54. tBodyGyroMag-std()  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation time signal for Body Gyroscopic Magnitude  
 
-55. tBodyGyroJerkMag-std()
+55. tBodyGyroJerkMag-std()  
 values - normailzed value between [-1, 1]  
 class - numeric 
 description - standard deviation time signal for Body Gyroscopic Jerk Magnitude  
 
-56. fBodyAcc-std()-X
+56. fBodyAcc-std()-X  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation frequency signal for Body Acceleration in the X direction  
 
-57. fBodyAcc-std()-Y
+57. fBodyAcc-std()-Y  
 values - normailzed value between [-1, 1]  
 class - numeric    
 description - standard deviation frequency signal for Body Acceleration in the Y direction  
 
-58. fBodyAcc-std()-Z
+58. fBodyAcc-std()-Z  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation frequency signal for Body Acceleration in the Z direction  
 
-59. fBodyAccJerk-std()-X
+59. fBodyAccJerk-std()-X  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation frequency signal for Body Acceleration Jerk in the X direction  
 
-60. fBodyAccJerk-std()-Y
+60. fBodyAccJerk-std()-Y  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation frequency signal for Body Acceleration Jerk in the Y direction  
 
-61. fBodyAccJerk-std()-Z
+61. fBodyAccJerk-std()-Z  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation frequency signal for Body Acceleration Jerk in the Z direction  
 
-62. fBodyGyro-std()-X
+62. fBodyGyro-std()-X  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation frequency signal for Body Gyroscope in the X direction  
 
-63. fBodyGyro-std()-Y
+63. fBodyGyro-std()-Y  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation frequency signal for Body Gyroscope in the Y direction  
 
-64. fBodyGyro-std()-Z
+64. fBodyGyro-std()-Z  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation frequency signal for Body Gyroscope in the Z direction  
 
-65. fBodyAccMag-std()
+65. fBodyAccMag-std()  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation frequency signal for Body Acceleration Magnitude  
 
-66. fBodyBodyAccJerkMag-std()
+66. fBodyBodyAccJerkMag-std()  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation frequency signal for Body Acceleration Jerk Magnitude  
 
-67. fBodyBodyGyroMag-std()
+67. fBodyBodyGyroMag-std()  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation frequency signal for Body Gyroscopic Magnitude  
 
-68. fBodyBodyGyroJerkMag-std()
+68. fBodyBodyGyroJerkMag-std()  
 values - normailzed value between [-1, 1]  
 class - numeric  
 description - standard deviation frequency signal for Body Gyroscopic Jerk Magnitude  
