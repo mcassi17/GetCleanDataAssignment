@@ -33,7 +33,7 @@ The next four lines use the select function to get the column names that have me
 
 The next 6 lines change the values 1, 2, 3, 4, 5, and 6 to Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, and Laying.
 
-Select is used again to select the columns that do not contain "Freq" or "angle".
+Select is used again to select the columns that do not contain "Freq" or "angle".  This was done because the original select functions did not contain only columns with mean() or std().  
 
 Next, the group_by function is used to group the data by subject and then by activity_type and this is stored in groupedData.
 
